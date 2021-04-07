@@ -1,4 +1,3 @@
-# tg-bot-basic-api
 Basic telegram bot api for Go. Polls updates and provides wrapper to make requests.
 
 ## Usage
