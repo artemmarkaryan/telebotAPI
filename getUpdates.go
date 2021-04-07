@@ -1,4 +1,4 @@
-package tgbotbasicapi
+package telebotAPI
 
 import (
 	"encoding/json"

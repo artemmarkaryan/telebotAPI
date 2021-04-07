@@ -1,4 +1,4 @@
-package tgbotbasicapi
+package telebotAPI
 
 type Message struct {
 	MessageID int `json:"message_id"`
