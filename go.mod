@@ -1,3 +1,3 @@
-module github.com/artemmarkaryan/tg-bot-basic-api
+module github.com/artemmarkaryan/telebotapi
 
 go 1.16
