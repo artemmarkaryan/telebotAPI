@@ -1,4 +1,4 @@
-package telebotAPI
+package telebotapi
 
 import (
 	"encoding/json"

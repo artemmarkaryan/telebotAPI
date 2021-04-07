@@ -1,4 +1,4 @@
-package telebotAPI
+package telebotapi
 
 type Message struct {
 	MessageID int `json:"message_id"`

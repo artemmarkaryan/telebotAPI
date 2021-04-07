@@ -1,3 +1,3 @@
-module github.com/artemmarkaryan/
+module github.com/artemmarkaryan/telebotapi
 
 go 1.16
