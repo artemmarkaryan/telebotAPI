@@ -37,7 +37,6 @@ type Chat struct {
 type Update struct {
 	UpdateID int `json:"update_id"`
 	Message  Message
-
 }
 
 type Response struct {
